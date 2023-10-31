@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(223, 222, 240);
+}
+
+.principal{
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    background-color: #3193CA !important;
+    border-radius: 3% !important;
+    padding: 5% !important;
+    margin-top: 20px;
+}
+
+h1{
+    border: 30% !important;
+    background-color: #1A91A1;
+    text-align: center;
+    height: 50px;
+  
+}
+P{
+    margin-left: 30% !important;
+    margin-right: 30% !important;
+    background-color: #3193CA !important;
+    border-radius: 3% !important;
+    text-align: center;
+    margin-top: 20px;
+}
+#btnMulher {
+    background-color: #E017A8;
+    color: #f8fafc;
+    border-radius: 5px;
+    padding: 6px 5px;
+    cursor: pointer;
+}
+#btnHomem {
+    background-color: #0805A4;
+    color: #f8fafc;
+    border-radius: 5px;
+    padding: 6px 5px;
+    cursor: pointer;
+ 
+}
